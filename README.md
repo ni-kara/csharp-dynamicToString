@@ -32,8 +32,18 @@ You can remove or add fields/methods and the ToString method will be continue to
 }
 ```
 
-This is the output of ToString() method
+### This is the output of ToString() method
 
-![GitHub Logo](images/output.png)
+(private) firstName <- firstName
+
+(private) lastName <- lastName
+
+(private) address <- address
+
+(public) postcode <- 0
+
+<div align="center">
+    <img src="images/output.png">
+</div>
 
 
