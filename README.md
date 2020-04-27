@@ -1,7 +1,7 @@
 # Dynamic ToString
 
 The method *ToString()* return the fields and methods of this class without to write some extra code in to *ToString()* method.
-You can remove or add fields/methods and the ToString method will be continue to work with new changes.
+You can remove or add fields/methods and the *ToString()* method will be continue to work with new changes.
 
 ### ToString method
 ```
